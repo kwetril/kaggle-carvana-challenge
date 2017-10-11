@@ -1,0 +1,14 @@
+# folder with contest data
+data/
+
+# folder with submissions
+submissions/
+
+#image files
+*.jpg
+
+# compiled python files
+*.pyc
+
+# pycharm files
+.idea/
