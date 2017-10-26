@@ -8,3 +8,6 @@ Project contains solution for [Kaggle Carvana Image Masking Challenge](https://w
  - `merge_submissions` - solution, which creates new submision merging several existing ones with specified weights
  - `unet_with_cropping` - main solution which uses U-Net neural network for image segmentation
  - `visualization` - contains IPython notebook to visualize predicted masks
+
+Model weights (full images): [carvana_unet.pth](https://yadi.sk/d/LPFECcmF3LtUa9)  
+Model weights (crops): [carvana_unet_crop.pth](https://yadi.sk/d/7tudaI0Q3P8cfj)
